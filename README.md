@@ -35,4 +35,5 @@ Data Structure and Algorithm Experiments in the First Semester of the School of 
 
 不同种类的数据结构适合于不同种类的应用，而部分甚至专门用于特定的作业任务。
 
-![](C:\Users\waldeinsamkeit\Documents\GitHub\Data-Structure-Homework\src\1.png)
+![mmexport1680795812939](https://user-images.githubusercontent.com/40687850/230430063-2ed1d8f0-164a-4909-82d4-98e2caeab494.png)
+
